@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @afmelo92
 - 👀 I’m interested in Computer Science in general
 - 🌱 I’m currently learning C, Computer Architecture and Operating Systems
-- 💞️ I’m looking to collaborate on any type of software that lifts my knowledge up
+- 💞️ I’m looking to collaborate on any type of software that improves my knowledge
 - 📫 How to reach me: andre@afmelo.com
 
 <!---
