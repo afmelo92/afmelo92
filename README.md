@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @afmelo92
+- 💻 I'm a Javascript developer. React and NodeJS are my daily basis code.
 - 👀 I’m interested in Computer Science in general
 - 🌱 I’m currently learning C, Computer Architecture and Operating Systems
 - 💞️ I’m looking to collaborate on any type of software that improves my knowledge
